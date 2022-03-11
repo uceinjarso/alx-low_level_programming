@@ -1,0 +1,2 @@
+#!/bib/bash
+&cc -E $CFILE -o c
