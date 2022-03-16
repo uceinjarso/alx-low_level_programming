@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdio.h>
 
 /**
@@ -31,4 +32,3 @@ printf("%i is positive\n", n);
 return (0);
 
 }
-
