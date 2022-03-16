@@ -1,12 +1,3 @@
-#!/bin/bash
-#include <stdio.h>
-
-/**
- * main - Entry point
- *
- * Return: Always 0 (Successs/correct)
- */
-
 int main(void)
 {
 int n;
@@ -32,3 +23,4 @@ printf("%i is positive\n", n);
 return (0);
 
 }
+
